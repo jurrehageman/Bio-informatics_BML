@@ -1,14 +1,14 @@
 ![Hanze](../hanze/hanze.png)
 
-# Bio-informatics courses
+# Bio-informatica cursussen
 
-## Bio-informatics 1
+## Bio-informatica 1
 ---
 
 ![Pic](./pics/fig1.png)
 
-## Lessons
-- [Lesson 1: basic computer skills](./basic_skills/basic_skills.md)
+## Lessen
+- [Les 1: Basis computer vaardigeheden](./basic_skills/basic_skills.md)
 
 --- 
 
