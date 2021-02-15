@@ -1,5 +1,7 @@
 ![Hanze](../../hanze/hanze.png)
 
+[Terug naar de Bio-informatica 1 hoofdpagina](../bio-informatics_1.md)
+
 # Bio-informatica 1
 
 ## Basis computer vaardigheden
@@ -315,5 +317,9 @@ Ga bij jezelf na of je de volgende leerdoelen hebt behaald:
 -	Bestanden en folders maken en delen via OneDrive
 -	Bestanden zoeken
 -	Een zoekquery schrijven in Google
+
+---
+
+[Terug naar de Bio-informatica 1 hoofdpagina](../bio-informatics_1.md)
 
 ---
