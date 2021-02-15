@@ -8,8 +8,8 @@
 ![Pic](./pics/fig1.png)
 
 ## Lessons
-- [Lesson 1](./basic_skills.md)
-- 
+- [Lesson 1: basic computer skills](./basic_skills/basic_skills.md)
+
 --- 
 
 
